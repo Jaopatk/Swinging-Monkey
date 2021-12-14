@@ -9,5 +9,5 @@ pairs of trees that the monkey can swing
 
 
 <img src="https://user-images.githubusercontent.com/95932835/145976969-6737fba0-7121-4c89-bb7d-b496d342d1ea.png" width="500">
-<img src="https://user-images.githubusercontent.com/95932835/145977257-29e314e6-1732-4afe-9032-5ef07c72b659.png"width="400">
+<img src="https://user-images.githubusercontent.com/95932835/145977257-29e314e6-1732-4afe-9032-5ef07c72b659.png"width="350">
 
