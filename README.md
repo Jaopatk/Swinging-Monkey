@@ -1,5 +1,5 @@
 # Swinging-Monkey
-use algorithm to find and count all tree-pairs that monkey can jump to/over.
+using ArrayDeque to find and count all tree-pairs that monkey can jump to/over.
 
 
 Consider a sequence of n trees { T0, T1, T2, T3, ..., Tn }. From T0, a monkey can swing to the next adjacent tree
